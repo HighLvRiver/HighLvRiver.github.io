@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Python Cheat Sheet"
+date:   2017-10-07 19:20:00
 categories: Cheat_Sheet
 ---
 참고 : [Basics.ipynb]
