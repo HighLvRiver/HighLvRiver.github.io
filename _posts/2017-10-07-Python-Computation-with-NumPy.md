@@ -6,7 +6,7 @@ categories: Cheat_Sheet Python
 ---
 
 Totals
-{% highlight ruby %}
+
 is_canada_1986 = (world_alcohol[:,2] == "Canada") & (world_alcohol[:,0] == '1986')
 canada_1986 = world_alcohol[is_canada_1986,:]
 canada_alcohol = canada_1986[:,4]
@@ -31,10 +31,10 @@ for country in countries:
     alcohol_column[is_empty] = "0"
     alcohol_column = alcohol_column.astype(float)
     totals[country] = alcohol_column.sum()
-{% endhighlight %}
+
 
 Highest_value
-{% highlight ruby %}
+
 highest_value = 0
 highest_key = None
 
@@ -43,4 +43,3 @@ for country in totals:
     if highest_value < consumption:
         highest_value = consumption
         highest_key = country
-{% endhighlight %}
