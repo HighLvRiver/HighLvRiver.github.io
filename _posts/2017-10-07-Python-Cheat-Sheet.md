@@ -2,7 +2,7 @@
 layout: post
 title:  "Python : Import CSV"
 date:   2017-10-07 19:20:00
-categories: Cheat_Sheet Python
+categories: Python
 ---
 
 Introduction To The Dataset

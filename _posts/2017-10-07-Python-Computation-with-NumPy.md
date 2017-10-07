@@ -2,7 +2,7 @@
 layout: post
 title:  "Python : Computation with NumPy"
 date:   2017-10-07 20:20:00
-categories: Cheat_Sheet Python
+categories: Python
 ---
 
 Totals
