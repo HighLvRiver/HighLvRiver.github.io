@@ -16,9 +16,7 @@ canada_alcohol = canada_alcohol.astype(float)
 total_canadian_drinking = canada_alcohol.sum()
 
 print(total_canadian_drinking)
-{% endhighlight %}
 
-{% highlight ruby %}
 totals = {}
 is_year = world_alcohol[:,0] == "1989"
 year = world_alcohol[is_year,:]
