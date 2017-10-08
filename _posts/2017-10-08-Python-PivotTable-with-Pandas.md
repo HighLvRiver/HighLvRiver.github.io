@@ -15,9 +15,7 @@ passenger_age = titanic_survival.pivot_table(index="pclass", values="age")
 print(passenger_class_fares)
 print(passenger_survival)
 print(passenger_age)
-{% endhighlight %}
 
-{% highlight ruby %}
 import numpy as np
 
 port_stats = titanic_survival.pivot_table(index="embarked", values=["fare","survived"], aggfunc=numpy.sum)
