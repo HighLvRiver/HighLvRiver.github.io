@@ -64,4 +64,16 @@ for year in years:
 year_counts
 {% endhighlight %}
 
+Read CSV with Pandas 
+
+{% highlight ruby %}
+import pandas as pd
+
+food_info = pd.read_csv("food_info.csv")
+col_names = food_info.columns.tolist()
+
+print(col_names)
+print(food_info.head(3))
+{% endhighlight %}
+
 [Exploring Gun Deaths In The US]: https://github.com/HighLvRiver/PythonLearning/blob/master/Basics.ipynb
