@@ -24,13 +24,3 @@ port_stats = titanic_survival.pivot_table(index="embarked", values=["fare","surv
 print(port_stats) 
 
 {% endhighlight %}
-*The default for the `aggfunc` parameter is actually the mean*
-
-
-Drop all rows in `titanic_survival` where the columns `age` or `sex` have missing values
-
-{% highlight ruby %}
-
-new_titanic_survival = titanic_survival.dropna(axis=0,subset=["age", "sex"])
-
-{% endhighlight %}
