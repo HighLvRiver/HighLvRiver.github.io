@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Start"
+title:  "Let's Start"
 date:   2017-10-08 21:00:00
 categories: Diary 
 ---
