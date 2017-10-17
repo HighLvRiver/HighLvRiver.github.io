@@ -27,7 +27,7 @@ kNN은 **k-Nearest Neighbors**의 약자이며, 쉽게 설명하면 테스트 �
     - Train Dataset 
         - https://pjreddie.com/media/files/mnist_test.csv
 
-[그럼 실제로 kNN 알고리즘을 구현해보도록 하겠습니다.(ipynb)]
+**[그럼 실제로 kNN 알고리즘을 구현해보도록 하겠습니다.(ipynb)]**
 
 
 [그럼 실제로 kNN 알고리즘을 구현해보도록 하겠습니다.(ipynb)]: https://github.com/HighLvRiver/MachineLearning/blob/master/kNN/python_kNN_from_Scratch_with_MNIST.ipynb
