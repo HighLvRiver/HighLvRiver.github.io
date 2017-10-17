@@ -2,7 +2,7 @@
 layout: post
 title:  "kNN From Scratch With MNST dataset Using Python"
 date:   2017-10-18 00:20:00
-categories: Python MachineLearning
+categories: Python
 ---
 
 신경망(Neural Network) 알고리즘을 구현해보기에 앞서, 지도학습(supervised learning)에서 활용되는 가장 단순한 종류의 알고리즘인 **kNN**을 이해하고 구현해보도록 하겠습니다.
