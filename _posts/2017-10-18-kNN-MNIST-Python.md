@@ -150,6 +150,8 @@ kNN은 **k-Nearest Neighbors**의 약자이며, 쉽게 설명하면 테스트 �
 - 참고 : http://scikit-learn.org/stable/modules/neighbors.html#nearest-neighbors-classification
 
 
+	# sikit-learn 
+
 	from sklearn.neighbors import KNeighborsClassifier
 
 	model = KNeighborsClassifier(n_neighbors=k, p=2, metric='minkowski')
