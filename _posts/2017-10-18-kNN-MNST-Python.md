@@ -15,7 +15,7 @@ kNN은 **k-Nearest Neighbors**의 약자이며, 쉽게 설명하면 테스트 �
 
 실습에 사용할 데이터는 손글씨 데이터(일명 MNIST)이며, 자료는 다음 경로에서 받으실 수 있습니다.
 
-- Sample Dataset <-- 이 주피터노트북에서는 샘플 데이터셋으로 학습 및 테스트를 진행합니다.
+- Sample Dataset 
     - Test Dataset (n=10)
         - https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork/blob/master/mnist_dataset/mnist_test_10.csv
     - Train Dataset (n=100)
