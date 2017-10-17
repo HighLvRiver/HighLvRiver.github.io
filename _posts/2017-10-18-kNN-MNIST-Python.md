@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "kNN From Scratch With MNST dataset Using Python"
-date:   2017-10-17 20:20:00
+date:   2017-10-18 00:20:00
 categories: Python MachineLearning
 ---
 
@@ -29,7 +29,7 @@ kNN은 **k-Nearest Neighbors**의 약자이며, 쉽게 설명하면 테스트 �
 
 그럼 실제로 kNN 알고리즘을 구현해보도록 하겠습니다.
 
-{% highlight ruby %}
+
 	# 먼저 pandas library 의 read_csv를 사용하여 csv 형식의 test data set 과 train data set 을 불러옵니다.
 
 	import pandas as pd
@@ -143,13 +143,13 @@ kNN은 **k-Nearest Neighbors**의 약자이며, 쉽게 설명하면 테스트 �
 
 	for k in range(1, 16): 
 	    test_est, accuracy = knn(train_data, test_data, train_labels, test_labels, k)
-{% endhighlight %}
+
 
 이번에는 python library 중 **sikit-learn** 에 있는 **KNeighborsClassifier** 를 가지고 손쉽게 kNN 알고리즘 결과를 구해보도록 하겠습니다.
 
 - 참고 : http://scikit-learn.org/stable/modules/neighbors.html#nearest-neighbors-classification
 
-{% highlight ruby %}
+
 	from sklearn.neighbors import KNeighborsClassifier
 
 	model = KNeighborsClassifier(n_neighbors=k, p=2, metric='minkowski')
@@ -168,4 +168,3 @@ kNN은 **k-Nearest Neighbors**의 약자이며, 쉽게 설명하면 테스트 �
 	test_est["estimated_labels"] = predictions
 
 	test_est
-{% endhighlight %}
