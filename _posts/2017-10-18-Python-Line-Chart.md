@@ -5,6 +5,8 @@ date:   2017-10-18 23:05:00
 categories: Python
 ---
 
+matplotlib.pyplot as plt
+
 {% highlight ruby %}
 
 import matplotlib.pyplot as plt
