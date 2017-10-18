@@ -6,6 +6,7 @@ categories: Python
 ---
 
 {% highlight ruby %}
+
 import matplotlib.pyplot as plt
 
 plt.plot()
@@ -21,9 +22,11 @@ plt.xlabel('Month')
 plt.ylabel('Unemployment Rate')
 plt.title('Monthly Unemployment Trends, 1948')
 plt.show()
+
 {% endhighlight %}
 
 {% highlight ruby %}
+
 fig = plt.figure()
 ax1 = fig.add_subplot(2,1,1)
 ax2 = fig.add_subplot(2,1,2)
@@ -32,9 +35,11 @@ ax1.plot(unrate[0:12]['DATE'], unrate[0:12]['VALUE'])
 ax2.plot(unrate[12:24]['DATE'], unrate[12:24]['VALUE'])
 
 plt.show()
+
 {% endhighlight %}
 
 {% highlight ruby %}
+
 fig = plt.figure()
 ax1 = fig.add_subplot(2,1,1)
 ax2 = fig.add_subplot(2,1,2)
@@ -51,9 +56,11 @@ ax1.set_title('Monthly Unemployment Rate, 1948')
 ax2.plot(unrate[12:24]['DATE'], unrate[12:24]['VALUE'])
 ax2.set_title('Monthly Unemployment Rate, 1949')
 plt.show()
+
 {% endhighlight %}
 
 {% highlight ruby %}
+
 fig = plt.figure(figsize=(12,12))
 
 for i in range(5):
@@ -64,9 +71,11 @@ for i in range(5):
     ax.plot(subset['DATE'], subset['VALUE'])
 
 plt.show()
+
 {% endhighlight %}
 
 {% highlight ruby %}
+
 unrate['MONTH'] = unrate['DATE'].dt.month
 fig = plt.figure(figsize=(6,3))
 
@@ -74,10 +83,12 @@ plt.plot(unrate[0:12]['MONTH'], unrate[0:12]['VALUE'], c='red')
 plt.plot(unrate[12:24]['MONTH'], unrate[12:24]['VALUE'], c='blue')
 
 plt.show()
+
 {% endhighlight %}
 
 
 {% highlight ruby %}
+
 fig = plt.figure(figsize=(10,6))
 colors = ['red', 'blue', 'green', 'orange', 'black']
 for i in range(5):
@@ -92,5 +103,6 @@ plt.ylabel('Unemployment Rate, Percent')
 plt.title('Monthly Unemployment Trends, 1948-1952')
 
 plt.show()
+
 {% endhighlight %}
 
