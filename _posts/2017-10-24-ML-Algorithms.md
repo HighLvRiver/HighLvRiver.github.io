@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reference"
+title:  "Machine Learning Algorithms"
 date:   2017-10-24 10:10:00
 categories: Diary
 ---
