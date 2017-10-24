@@ -10,6 +10,8 @@ categories: Diary
 - [나무위키]
 - [ML Mastery]
 
+![MachineLearningAlgorithms](/images/MachineLearningAlgorithms.png)
+
 ### MNIST(손글씨) 데이터셋을 다양한 알고리즘으로 구현한 성능을 비교한 블로그
 - [Martin-thoma]
 
