@@ -27,7 +27,7 @@ plt.show()
 
 {% endhighlight %}
 
-{% highlight ruby %}
+```
 
 fig = plt.figure()
 ax1 = fig.add_subplot(2,1,1)
@@ -38,7 +38,7 @@ ax2.plot(unrate[12:24]['DATE'], unrate[12:24]['VALUE'])
 
 plt.show()
 
-{% endhighlight %}
+```
 
 {% highlight ruby %}
 
