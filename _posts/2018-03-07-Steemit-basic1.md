@@ -13,28 +13,28 @@ categories: Steemit
 ### 그럼 스팀은 뭐고 스팀잇은 또 뭐야?
 [스팀 공식 홈페이지](https://steem.io) 메인 페이지를 보면, 스팀에 대해 다음과 같이 설명하고 있습니다.
 > Steem is a blockchain-based rewards platform for publishers to monetize content and grow community.
-> 
+ 
 > Steem은 게시자가 콘텐츠로 수익을 창출하고 커뮤니티를 성장시키는 블록 체인 기반 보상 플랫폼입니다.
 즉, 스팀은 블록체인 기반 보상 플랫폼 전체를 이르는 큰 개념이라고 볼 수 있습니다. 
->
+
 >  *- Steem Public Homepage*
 
 스팀잇은 스팀이라는 블록체인 기반 보상 플랫폼을 활용하여 스팀 설계자들이 만든 첫번째 어플리케이션으로서, 커뮤니티에 돈을 지불하는 소셜 네트워크 서비스를 이릅니다. 스팀이라는 플랫폼을 다양한 서비스(예: 스팀 기반 동영상 서비스, [디튜브](https://d.tube))에 확장 적용할 수 있을테지만 그 중에 소셜 네트워크에 적용한 것이 바로 스팀잇인거죠. 
 
 스팀잇 창업자들은 그들의 공식 홈페이지와 [백서(Whitepaper)](https://steem.io/SteemWhitePaper.pdf)를 통해 스팀과 스팀잇에 대해 다음과 같이 설명하고 있습니다.
 > Steemit is a blogging platform with it's own SMT called STEEM. These tokens are distributed to content creators and curators daily as rewards, based on community voting.
->
+
 > Steemit은 STEEM이라는 자체 SMT를 가진 블로깅 플랫폼입니다. 이러한 토큰은 지역 사회 투표를 기반으로 콘텐츠 제작자와 큐레이터에게 보상으로 배포됩니다.
->
+
 > We built Steemit on Steem to show the world the future of the web. We built it to inspire new digital content business models and apps by entreprenuers and developers.
-> 
+ 
 > 우리는 웹의 미래를 보여주기 위해 Steem 위에 Steemit을 구축하였습니다. 우리는 기업가 및 개발자에 의해 새로운 디지털 컨텐츠 비즈니스 모델 및 애플리케이션에 대한 영감을 주기 위해 스팀잇을 만들었습니다.
-> 
+ 
 > *- Steem Public Homepage*
-> 
+ 
 > Steem
 > >An incentivized, blockchain-based, public content platform.
->
+
 > *- Steem Whitepaper Cover*
 
 여기서 잠깐, 
@@ -58,39 +58,39 @@ categories: Steemit
 스팀 백서의 서론 부분을 보면, 스팀잇 설립 배경이 잘 드러나 있습니다. 스팀잇은 그들의 백서 서론에서 다음과 같은 이야기를 하고 있습니다. (개인적으로 굉장히 소름이 돋았던 부분이라, 조금 길더라도 원문 전체를 옮겨 두도록 하겠습니다.)
 
 > Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **[In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc](http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/#4e07b05332b9)** . Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
-> 
+
 > Reddit, Facebook, Twitter 등 소셜 미디어 사용자들이 생성한 콘텐츠는 해당 기업들의 주주들에게 수십억 달러에 달하는 가치를 창출했다. 2014년, Reddit은 글 쓰기, 댓글 쓰기, 투표 등을 통해 reddit.com에 기여하는 모든 사람들에게 Reddit, Inc 주식으로 보상할 경우 자사 플랫폼이 개선될 것이라는 가설을 제기하였다. 스팀은 귀중한 기여를 하는 사람들에게 암호화폐를 보상하는 방식으로 가치의 상당량을 돌려줌으로써 소셜 미디어 및 온라인 커뮤니티를 지원하는 것을 목표로 한다. 이 과정에서 아직 암호화폐 경제에 참여하지 않고 있는 사람들을 포함한 좀더 넓은 시장까지 유통될 수 있는 화폐를 생성한다.
-> 
+ 
 > There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
->
+
 > 스팀을 디자인하는데 있어서 적용된 몇 가지 핵심 원칙들이 있다. 가장 중요한 원칙은 벤처 기업의 성장에 기여한 모든 사람들이 기여도에 따라 그에 상응하는 지분, 현금 혹은 차입금을 받아야 한다는 것이다. 이 원칙은 모든 벤처 기업들의 설립 및 유상 증자 시 적용되는 주식 배분 원칙과 동일하다.
-> 
+ 
 > The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is [the sweat equity](https://www.investopedia.com/terms/s/sweatequity.asp) principle and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
->
+
 > 두번째 원칙은 모든 형태의 자본은 동등하게 가치가 있다는 것이다. 콘텐츠 생산과 큐레이션에 시간과 노력을 쏟은 이들은 자본 투자한 자들 못지 않게 가치가 있다. 이것이 땀에 대한 보상원칙이며 이전의 암호화폐들이 대다수 사람들에게 실패한 이유이기도 하다.
-> 
+ 
 > The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
->
+
 > 세번째 원칙은 커뮤니티는 그 소속 멤버들을 위한 제품을 만들어야 한다는 점이다. 이 원칙은 신용협동조합, 식품협동조합, 의료비공동부담플랜 등에서 검증된 바 있는데, 이런 협동조합은 커뮤니티 외부의 사람들을 위해 제품이나 서비스를 제공하는 것 보다는 내부 멤버들에게 우선 서비스한다.
->
+
 > The Steem community provides the following services to its members:
 >> 1. A source of curated news and commentary.
 >> 2. A means to get high quality answers to personalized questions.
 >> 3. A stable cryptocurrency pegged to the U.S. dollar.
 >> 4. Free payments.
 >> 5. Jobs providing above services to other members.
->
+
 > 스팀 커뮤니티는 구성원들에게 아래와 같은 서비스들을 제공한다. (이건 조합원으로서의 우리의 의무이기도 하다.)
 >> 1. 큐레이팅한 뉴스와 해설 등의 제공
 >> 2. 개인이 필요로 하는 질문에 대한 수준 높은 답변 등 제공
 >> 3. US 달러에 연동하는 안정적인 암호화폐
 >> 4. 거래 수수료 면제
 >> 5. 다른 멤버들에게 위의 서비스를 제공하는 일을 제공
-> 
+ 
 > Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. 
->
+
 > 스팀이 지향하는 경제적 인센티브의 재조정은 이전의 소셜 미디어 및 암호화폐 플랫폼들보다 좀 더 공정하고 포괄적인 결과를 만들어낼 것으로 기대된다. 
-> 
+
 > *- Steem Whitepaper Introduction*
 
 백서의 내용을 토대로 보면, 결국 스팀은 그 동안 페이스북, 트위터, 레딧 등과 같은 소셜미디어의 주주 및 투자자들이 그 플랫폼 사용자들이 생성한 콘텐츠를 기반으로 거대한 부를 축적해오던 것에 대해 반감을 가지고 있던 네트 스캇(Ned Scott, CEO)과 댄 라리머(Dan Larimer, CTO, 현 EOS 창립자) 두 사람은 2014년 레딧이 자신의 플랫폼인 Reddit.com에 글을 포스팅 하거나, 댓글을 달거나, 보팅(좋아요)을 하는 기여자들에게 레딧 회사의 주식을 줄 경우 플랫폼이 좀 더 발전할 것이라는 가설을 제기하자 이를 실현하는 시도를 하기 위해 **소셜미디어(커뮤니티)에 실질적으로 기여한 모든 사람들에게 보상이 돌아가는 새로운 미디어 회사 스팀잇을 2016년 1월에 설립하게 된 것**입니다. 
@@ -98,13 +98,13 @@ categories: Steemit
 기존 소셜미디어들은 커뮤니티 멤버들이 작성한 콘텐츠를 등에 업은 거대 트래픽을 기반으로 하며, 그 트래픽에서 발생하는 광고수익, 회사 가치 상승에 따른 혜택이 커뮤니티 멤버들 보다는 자본을 투자한 일부 주주들에게 대부분 돌아갑니다. 즉, 주주 자본주의(Shareholder Capitalism)를 기반으로 하며 리스크를 많이 지고 투자를 빨리한 순서 대로 부(Wealth)를 더 가져가게되는 것이죠. 창업자가 제일 많은 부를, 그 다음엔 초기 엔젤투자자, Series A 투자자, 성장단계 투자자, 공모(IPO) 투자자 순입니다. 정작 그 커뮤니티를 키운 건 우리 같은 일반 이용자들인테 말입니다.
 
 > Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy.
->
+
 > 스팀은 소셜미디어 기반 경제 시스템이 받아들여지고 수익화하는데 가로막는 장벽들을 해소하기 위해 처음부터 디자인되었다.
 
 ### 스팀에서 말하는 기여 가치 
 
 > The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere.
-> 
+ 
 > 대부분의 콘텐츠의 가치는 인지적 비용, 금전적 비용, 기회 비용에 비해 상대적으로 매우 낮아서 거의 독자들이 지불하지 않으려 한다. 무수히 많은 무료 대체 콘텐츠들이란 ‘지불 장벽’이 독자들을 다른 곳으로 내몬다.
 
 스팀은 콘텐츠의 가치를 인지적 비용, 금전적 비용, 기회 비용의 3가지 관점에서 접근합니다. 
