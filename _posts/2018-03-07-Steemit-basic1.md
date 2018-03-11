@@ -13,17 +13,21 @@ categories: Steemit
 ### 그럼 스팀은 뭐고 스팀잇은 또 뭐야?
 [스팀 공식 홈페이지](https://steem.io) 메인 페이지를 보면, 스팀에 대해 다음과 같이 설명하고 있습니다.
 > Steem is a blockchain-based rewards platform for publishers to monetize content and grow community.(Steem은 게시자가 콘텐츠로 수익을 창출하고 커뮤니티를 성장시키는 블록 체인 기반 보상 플랫폼입니다. 즉, 스팀은 블록체인 기반 보상 플랫폼 전체를 이르는 큰 개념이라고 볼 수 있습니다.) 
+
 >  *- Steem Public Homepage*
 
 스팀잇은 스팀이라는 블록체인 기반 보상 플랫폼을 활용하여 스팀 설계자들이 만든 첫번째 어플리케이션으로서, 커뮤니티에 돈을 지불하는 소셜 네트워크 서비스를 이릅니다. 스팀이라는 플랫폼을 다양한 서비스(예: 스팀 기반 동영상 서비스, [디튜브](https://d.tube))에 확장 적용할 수 있을테지만 그 중에 소셜 네트워크에 적용한 것이 바로 스팀잇인거죠. 
 
 스팀잇 창업자들은 그들의 공식 홈페이지와 [백서(Whitepaper)](https://steem.io/SteemWhitePaper.pdf)를 통해 스팀과 스팀잇에 대해 다음과 같이 설명하고 있습니다.
 > Steemit is a blogging platform with it's own SMT called STEEM. These tokens are distributed to content creators and curators daily as rewards, based on community voting.(Steemit은 STEEM이라는 자체 SMT를 가진 블로깅 플랫폼입니다. 이러한 토큰은 지역 사회 투표를 기반으로 콘텐츠 제작자와 큐레이터에게 보상으로 배포됩니다.)
+
 > We built Steemit on Steem to show the world the future of the web. We built it to inspire new digital content business models and apps by entreprenuers and developers.(우리는 웹의 미래를 보여주기 위해 Steem 위에 Steemit을 구축하였습니다. 우리는 기업가 및 개발자에 의해 새로운 디지털 컨텐츠 비즈니스 모델 및 애플리케이션에 대한 영감을 주기 위해 스팀잇을 만들었습니다.)
+
 > *- Steem Public Homepage*
  
 > Steem
 > >An incentivized, blockchain-based, public content platform.
+
 > *- Steem Whitepaper Cover*
 
 여기서 잠깐, 
@@ -62,6 +66,7 @@ categories: Steemit
 >> 5. Jobs providing above services to other members.(다른 멤버들에게 위의 서비스를 제공하는 일을 제공)
  
 > Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it.(스팀이 지향하는 경제적 인센티브의 재조정은 이전의 소셜 미디어 및 암호화폐 플랫폼들보다 좀 더 공정하고 포괄적인 결과를 만들어낼 것으로 기대된다.) 
+
 > *- Steem Whitepaper Introduction*
 
 백서의 내용을 토대로 보면, 결국 스팀은 그 동안 페이스북, 트위터, 레딧 등과 같은 소셜미디어의 주주 및 투자자들이 그 플랫폼 사용자들이 생성한 콘텐츠를 기반으로 거대한 부를 축적해오던 것에 대해 반감을 가지고 있던 네트 스캇(Ned Scott, CEO)과 댄 라리머(Dan Larimer, CTO, 현 EOS 창립자) 두 사람은 2014년 레딧이 자신의 플랫폼인 Reddit.com에 글을 포스팅 하거나, 댓글을 달거나, 보팅(좋아요)을 하는 기여자들에게 레딧 회사의 주식을 줄 경우 플랫폼이 좀 더 발전할 것이라는 가설을 제기하자 이를 실현하는 시도를 하기 위해 **소셜미디어(커뮤니티)에 실질적으로 기여한 모든 사람들에게 보상이 돌아가는 새로운 미디어 회사 스팀잇을 2016년 1월에 설립하게 된 것**입니다. 
