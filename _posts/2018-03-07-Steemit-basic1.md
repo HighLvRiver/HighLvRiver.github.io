@@ -21,7 +21,8 @@ categories: Steemit
 
 스팀잇 창업자들은 그들의 공식 홈페이지와 [백서(Whitepaper)](https://steem.io/SteemWhitePaper.pdf)를 통해 스팀과 스팀잇에 대해 다음과 같이 설명하고 있습니다.
 > Steemit is a blogging platform with it's own SMT called STEEM. These tokens are distributed to content creators and curators daily as rewards, based on community voting.(Steemit은 STEEM이라는 자체 SMT를 가진 블로깅 플랫폼입니다. 이러한 토큰은 지역 사회 투표를 기반으로 콘텐츠 제작자와 큐레이터에게 보상으로 배포됩니다.)
-
+> <br>
+> <br>
 > We built Steemit on Steem to show the world the future of the web. We built it to inspire new digital content business models and apps by entreprenuers and developers.(우리는 웹의 미래를 보여주기 위해 Steem 위에 Steemit을 구축하였습니다. 우리는 기업가 및 개발자에 의해 새로운 디지털 컨텐츠 비즈니스 모델 및 애플리케이션에 대한 영감을 주기 위해 스팀잇을 만들었습니다.)
 > <br>
 > <br>
