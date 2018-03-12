@@ -445,7 +445,9 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 
 ## 스팀잇 관련 주요 사이트
 ### 스팀잇 이용 관련 사이트
+- https://steem.io 공식 페이지
 - http://steemitboard.com 스팀잇 점수와 등급, 뱃지 조회
+	- https://steemit.com/@arcange 스팀잇 데일리 리포트를 제공하는 스팀잇보드 개발자 블로그
 - http://steemd.com 스팀 활동을 좀 더 기계적인 느낌으로, 소스나 필드명 등으로 볼 수 있는 사이트
 	- https://steemd.com/witnesses 스팀 증인들의 활동률을 볼 수 있음
 - http://steemtools.com 스팀잇에 유용한 사이트나 툴들을 소개해주는 사이트
@@ -461,6 +463,8 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 - https://soboru.co.uk/steemme 스팀 활동 일목 요연한 정리 사이트
 - https://steemviz.com/pendingpayouts Payout 시점 즉, 7일이 지나지 않은 글과 댓글에 대한 저자/큐레이션 보상 추정액 확인
 - https://steemnow.com 본인의 스팀 활동 전반을 한 눈에 보여주는 사이트
+	- https://steemnow.com/upvotecalc.html
+- https://steem.supply/@jayden.yoo 
 
 - https://www.facebook.com/groups/197365584338716/ 스팀잇 사용자 모임 페이스북그룹
 - http://m.dcinside.com/list.php?id=steemit#2 디시인사이드 스팀잇 마이너 갤
@@ -468,6 +472,7 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 ### 스팀잇 데이터 분석 소스 제공 사이트
 - https://steemsql.com
 - https://steemdb.com
+- https://steemdata.com
 
 ## Next 스팀잇 표방 서비스
 
