@@ -357,18 +357,18 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 세부 보상 체계는 다음과 같습니다.
 
 - 보팅파워 : 1회 보팅 때마다 2%씩 차감
-- upvote 금액 = 스팀파워 x 보팅파워 x 보팅레이트 (https://steemnow.com/upvotecalc.html 에서 계산 가능)
-- 스팀파워가 높을 수록 보팅 한번에 큰 금액 보팅이 가능
-- 24시간 후 보팅 파워 20% 회복 (내 보팅 파워 확인 https://steemd.com/@id)
+	- upvote 금액 = 스팀파워 x 보팅파워 x 보팅레이트 (https://steemnow.com/upvotecalc.html 에서 계산 가능)
+	- 스팀파워가 높을 수록 보팅 한번에 큰 금액 보팅이 가능
+	- 24시간 후 보팅 파워 20% 회복 (내 보팅 파워 확인 https://steemd.com/@id)
 - 7일 후 해당 글 보팅 총액의 75%는 저자에게 25%는 큐레이터들에게 배분
-- 25% 배분 로직
-  - 보팅 선착순으로 차별 배분(배분 로직은 비공개)
-- 글 등록 15분 이내 보팅 : 저자에게 100%
-- 글 등록 15~30분 보팅 : 저자 50%, 큐레이터 50%
-- 글 등록 30분 이후~ 7일 보팅 : 큐레이터 100%
+	- 25% 배분 로직
+	  - 보팅 선착순으로 차별 배분(배분 로직은 비공개)
+	- 글 등록 15분 이내 보팅 : 저자에게 100%
+	- 글 등록 15~30분 보팅 : 저자 50%, 큐레이터 50%
+	- 글 등록 30분 이후~ 7일 보팅 : 큐레이터 100%
 
 
-## 기타 용어
+## 기타 관련 용어
 ### 풀보팅
 보팅파워는 esteem어플에도 나오고, http://steemd.com/@본인ID 에서도 확인 가능한데, 100프로 풀보팅시 '잔여 보팅파워'의 2프로가 감소하며, 매 24시간마다 20프로(1시간에 약 0.83%)씩 회복합니다(잔여 보팅파워가 10%라면 24시간 뒤 30%, 잔여 보팅파워가 80%라면 24시간 뒤 100%).
 
@@ -421,11 +421,39 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 
 메가(mega)는 ‘100만’이라는 뜻입니다. 개인의 베스트는 스팀잇의 ‘지갑’(wallet)에서 확인이 가능합니다. (steemd.com에 가보면 환산하는 공식을 알 수 있습니다.)
 
-## 주요 파생 서비스
-### 스팀잇
-### 서비스
+## 스팀잇 관련 주요 사이트
+### 스팀잇 이용 관련 사이트
+- http://steemitboard.com 스팀잇 점수와 등급, 뱃지 조회
+- http://steemd.com 스팀 활동을 좀 더 기계적인 느낌으로, 소스나 필드명 등으로 볼 수 있는 사이트
+- http://steemtools.com 스팀잇에 유용한 사이트나 툴들을 소개해주는 사이트
+- http://www.steemitmeta.com 스팀과 스팀달러의 시세 조회
+- http://steemstream.com 실시간 스팀잇 활동현황 알림
+- http://steemwhales.com 이른바 고래라 불리는 스팀잇 최상위층의 순위와 정보
+- https://steemstats.com 스팀잇 계정들의 여러 활동 조회
+- http://steemstory.com 스팀잇 계정의 여러 정보를 다이나믹 시각화
+- http://steempayout.com 자신의 포스팅이 받는 보상 안내
+- https://steemkr.com KR태그 정리가 잘 되어 있음
+- http://tool.steem.world/Post/Mentioned 자신을 언급한 글들을 확인 할 수 있는 사이트
+- https://busy.org 스팀잇에 글을 올릴 수 있는 별도의 사이트. 올린 글에 대해서 그냥 보팅도 해줌.
+- https://soboru.co.uk/steemme 스팀 활동 일목 요연한 정리 사이트
+- https://steemviz.com/pendingpayouts Payout 시점 즉, 7일이 지나지 않은 글과 댓글에 대한 저자/큐레이션 보상 추정액 확인
+- https://steemnow.com 본인의 스팀 활동 전반을 한 눈에 보여주는 사이트
+
+- https://www.facebook.com/groups/197365584338716/ 스팀잇 사용자 모임 페이스북그룹
+- http://m.dcinside.com/list.php?id=steemit#2 디시인사이드 스팀잇 마이너 갤
+
+### 스팀잇 데이터 분석 소스 제공 사이트
+- https://steemsql.com
+- https://steemdb.com
 
 ## Next 스팀잇 표방 서비스
-## 스팀잇 데이터 분석
+
+- 한국형 스팀잇 서비스, 메이벅스 http://www.maybugs.com/
+- 탈중앙화 및 인센티브 기반 소셜 네트워크(TTC)기반 소셜네트워크, tataUFO https://www.ttc.eco/
+- 개인 의료정보 공유 모델, 메디블록 https://medibloc.org/ko/
+	- 메디블록 백서 요약 : https://steemit.com/medibloc/@ryugihyeok/medibloc-whitepaper
+	- 메디블록은 스팀 기반은 아니지만 스팀잇의 보상체계를 의료정보 공유 모델에 차용
+
+
 
 
