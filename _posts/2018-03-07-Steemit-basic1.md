@@ -12,9 +12,8 @@ categories: Steemit
 
 ### 그럼 스팀은 뭐고 스팀잇은 또 뭐야?
 [스팀 공식 홈페이지](https://steem.io) 메인 페이지를 보면, 스팀에 대해 다음과 같이 설명하고 있습니다.
-> Steem is a blockchain-based rewards platform for publishers to monetize content and grow community.(Steem은 게시자가 콘텐츠로 수익을 창출하고 커뮤니티를 성장시키는 블록 체인 기반 보상 플랫폼입니다. 즉, 스팀은 블록체인 기반 보상 플랫폼 전체를 이르는 큰 개념이라고 볼 수 있습니다.)
-> <p></p>
->  *<p> - Steem Public Homepage </P>*
+> Steem is a blockchain-based rewards platform for publishers to monetize content and grow community.  (Steem은 게시자가 콘텐츠로 수익을 창출하고 커뮤니티를 성장시키는 블록 체인 기반 보상 플랫폼입니다. 즉, 스팀은 블록체인 기반 보상 플랫폼 전체를 이르는 큰 개념이라고 볼 수 있습니다.)  
+>  * - Steem Public Homepage *
 
 스팀잇은 스팀이라는 블록체인 기반 보상 플랫폼을 활용하여 스팀 설계자들이 만든 첫번째 어플리케이션으로서, 커뮤니티에 돈을 지불하는 소셜 네트워크 서비스를 이릅니다. 스팀이라는 플랫폼을 다양한 서비스(예: 스팀 기반 동영상 서비스, [디튜브](https://d.tube))에 확장 적용할 수 있을테지만 그 중에 소셜 네트워크에 적용한 것이 바로 스팀잇인거죠. 
 
