@@ -46,9 +46,10 @@ categories: Steemit
 
 스팀과 완전히 분리된 코인은 아니고 STEEM과 연계되는 코인을 생성하게 해줍니다. 자체 코인의 유통도 가능하며, STEEM/자체코인 ('자체코인1 -> STEEM -> 자체코인2' 형태 등) 연계로 인해 STEEM을 중심으로한 거대한 생태계가 만들어지게 됩니다. 
 
-정리하자면, 스팀 플랫폼을 기반으로 한 보상서비스를 어떠한 서비스에도 확장 가능하도록 만든 장치라고 생각하시면 됩니다.  
+정리하자면, 스팀 플랫폼을 기반으로 한 보상서비스를 어떠한 서비스에도 확장 가능하도록 만든 장치라고 생각하시면 됩니다. SMT를 활용한 플랫폼으로는 [APPICS](http://appics.kr/APPICS)라고 하는 소셜미디어 서비스가 있습니다.(2018년 3분기 알파런칭 및 토큰 분배 예정)
 
 [SMT Whitepaper](https://smt.steem.io/smt-whitepaper.pdf)
+[SMT를 활용한 첫번째 플랫폼, APPICS, Whitepaper](https://appics.com/downloads/Appics_Whitepaper.pdf)
 
 시작하자마자, 낯선 개념들이 쏟아져 나왔는데요. 
 더 재미있는 이야기를 드리기 전에 스팀잇 설립자들은 누구이며, 왜 이러한 서비스를 만들었는 지 살펴보겠습니다. 
