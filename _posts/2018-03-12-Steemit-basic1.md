@@ -37,7 +37,7 @@ categories: Steemit
 > <br>
 > *- Steem Public Homepage*
 
-**스팀잇은 스팀이라는 블록체인 기반 보상 플랫폼을 활용하여 스팀 설계자들이 만든 첫번째 어플리케이션**으로서, 커뮤니티에 돈을 지불하는 소셜 네트워크 서비스를 이릅니다. 스팀이라는 플랫폼을 다양한 서비스(예: 스팀 기반 동영상 서비스, [디튜브](https://d.tube))에 확장 적용할 수 있을테지만 그 중에 소셜 네트워크에 적용한 것이 바로 스팀잇인거죠. 
+**스팀잇은 스팀이라는 블록체인 기반 보상 플랫폼을 활용하여 스팀 설계자들이 만든 첫번째 어플리케이션**으로서, 커뮤니티에 돈을 지불하는 소셜 네트워크 서비스를 이릅니다. 스팀이라는 플랫폼을 다양한 서비스(예: 스팀 기반 동영상 서비스, [디튜브](https://d.tube))에 확장 적용할 수 있을테지만 그 중에 소셜 네트워크에 적용한 것이 바로 스팀잇인거죠. (스팀잇에 대해서, 그 실체를 지갑프로그램이라고 표현하는 이도 있습니다.)
 
 스팀잇 창업자들은 그들의 공식 홈페이지와 [백서(Whitepaper)](https://steem.io/SteemWhitePaper.pdf)를 통해 스팀과 스팀잇에 대해 다음과 같이 설명하고 있습니다.
 > Steemit is a blogging platform with it's own SMT called STEEM. These tokens are distributed to content creators and curators daily as rewards, based on community voting.(Steemit은 STEEM이라는 자체 SMT를 가진 블로깅 플랫폼입니다. 이러한 토큰은 지역 사회 투표를 기반으로 콘텐츠 제작자와 큐레이터에게 보상으로 배포됩니다.)
@@ -359,6 +359,8 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 
 스팀파워의 이자율이 1.5%라고 하는 것은, 인플레이션율의 15%가 스팀파워에 배당되고, 현재 인플레이션율이 약 10%이기때문에 10%의 15%는 1.5%가 됨으로 이자율이 1.5%가 되는 것입니다.
 
+(참고로 블록은 3초마다 생성됩니다.)
+
 ### 저자와 추천인 사이의 보상 변수
 
 저자와 큐레이터(추천인), 이 두 대상에 대해 보상하는 방법이 보팅입니다.
@@ -466,9 +468,14 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 - https://steemnow.com 본인의 스팀 활동 전반을 한 눈에 보여주는 사이트
 	- https://steemnow.com/upvotecalc.html
 - https://steem.supply/@jayden.yoo 
+- https://steemdown.com/ 스팀파워 현황
+- https://steemitkorea.com/ 한국에서 스팀 결제가 가능한 곳
 
 - https://www.facebook.com/groups/197365584338716/ 스팀잇 사용자 모임 페이스북그룹
 - http://m.dcinside.com/list.php?id=steemit#2 디시인사이드 스팀잇 마이너 갤
+
+- https://github.com/steemit/steem/ 스팀 깃허브
+- https://www.youtube.com/channel/UCszdL-p-oxFW9xQyXT9mkWw/ 스팀 유투브 채널
 
 ### 스팀잇 데이터 분석 소스 제공 사이트
 - https://steemsql.com
@@ -505,3 +512,4 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 - [LoyaltyX](https://www.loyaltyx.co/)
 - [포인트 관련 블록체인, gatcoin](https://steemit.com/blockchain/@callihappiness/gatcoin)
 	- 블록체인 혁명에서 말하는 블록체인이 적용될 수 있는 포인트 관련 업무는 바로 한정된 커뮤니티 안에서 로열티를 지급하여 그것이 기본적인 신뢰 포인트가 되게 할수도 있고 아니면 그것이 화폐 단위가 되게 하는 것이다. 현실의 예를 들으면 신한카드를 사용하면 사용 금액의 일정 비율을 포인트로 주는 것과 동일 하다. 하지만 그 포인트는 단지 신한카드를 쓸 때 사용할 수 있고 사용범위가 넓지 않다. 그런 점에서 겟 코인 일차적으로 이러한 포인트에 유동성을 주고자한다. 포인트에 유동성을 주는 것은 많은 사람들이 원하는 서비스이다.
+- [스팀잇이 가져올 SNS 혁명](https://strimi.pl/coinkorea/@seungjae1012/steemit-sns)
