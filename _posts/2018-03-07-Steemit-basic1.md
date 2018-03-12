@@ -445,10 +445,10 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 
 ## Next 스팀잇 표방 서비스
 
-- 한국형 스팀잇 서비스, 메이벅스 http://www.maybugs.com/
-- 탈중앙화 및 인센티브 기반 소셜 네트워크(TTC)기반 소셜네트워크, tataUFO https://www.ttc.eco/
-- 개인 의료정보 공유 모델, 메디블록 https://medibloc.org/ko/
-	- 메디블록 백서 요약 : https://steemit.com/medibloc/@ryugihyeok/medibloc-whitepaper
+- [한국형 스팀잇 서비스, 메이벅스](http://www.maybugs.com/) 
+- [탈중앙화 및 인센티브 기반 소셜 네트워크(TTC)기반 소셜네트워크, tataUFO](https://www.ttc.eco/)
+- [개인 의료정보 공유 모델, 메디블록](https://medibloc.org/ko/)
+	- [메디블록 백서 요약])https://steemit.com/medibloc/@ryugihyeok/medibloc-whitepaper)
 	- 메디블록은 스팀 기반은 아니지만 스팀잇의 보상체계를 의료정보 공유 모델에 차용
 
 ## 제이든이 관심 가지고 지켜 보고 있는 포인트
