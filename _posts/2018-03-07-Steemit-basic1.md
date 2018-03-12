@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "스팀, 스팀잇에 대한 이해 그리고 CRM"
-date:   2018-03-07 23:00:00
+date:   2018-03-12 23:00:00
 categories: Steemit
 ---
 
