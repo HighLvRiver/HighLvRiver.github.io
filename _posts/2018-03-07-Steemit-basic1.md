@@ -76,7 +76,7 @@ categories: Steemit
 >> 3 A stable cryptocurrency pegged to the U.S. dollar.(US 달러에 연동하는 안정적인 암호화폐) <br>
 >> 4 Free payments.(거래 수수료 면제) <br>
 >> 5 Jobs providing above services to other members.(다른 멤버들에게 위의 서비스를 제공하는 일을 제공) <br>
-> <br>
+
 > Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it.(스팀이 지향하는 경제적 인센티브의 재조정은 이전의 소셜 미디어 및 암호화폐 플랫폼들보다 좀 더 공정하고 포괄적인 결과를 만들어낼 것으로 기대된다.) 
 > <br>
 > <br>
