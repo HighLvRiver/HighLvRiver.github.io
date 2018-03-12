@@ -183,5 +183,5 @@ categories: Steemit
 
 한편, 네드 스캇은 지난해 8월 스팀잇에 올린 글에서 자신을 "가상화폐 기업가이자 아마추어 요리사, 파트타임 기타리스트"라고 소개했습니다. 
 
-[*- 참고기사*](http://it.chosun.com/news/article.html?no=2846901)
+[*- 참고기사*](http://it.chosun.com/news/article.html?no=2846901)  
 [*- 스팀센터 위키 : 댄라리머*](https://www.steem.center/index.php?title=%EB%8C%84_%EB%9D%BC%EB%A6%AC%EB%A8%B8)
