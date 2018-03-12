@@ -25,10 +25,13 @@ categories: Steemit
 > We built Steemit on Steem to show the world the future of the web. We built it to inspire new digital content business models and apps by entreprenuers and developers.(우리는 웹의 미래를 보여주기 위해 Steem 위에 Steemit을 구축하였습니다. 우리는 기업가 및 개발자에 의해 새로운 디지털 컨텐츠 비즈니스 모델 및 애플리케이션에 대한 영감을 주기 위해 스팀잇을 만들었습니다.)
 > <br>
 > <br>
-> *- Steem Public Homepage*>
+> *- Steem Public Homepage*
+> <br>
 > <br>
 > Steem
-> >An incentivized, blockchain-based, public content platform.
+> <br>
+> <br>
+> An incentivized, blockchain-based, public content platform.
 > <br>
 > <br>
 > *- Steem Whitepaper Cover*
@@ -66,13 +69,12 @@ categories: Steemit
 > <br>
 > <br>
 > The Steem community provides the following services to its members: (스팀 커뮤니티는 구성원들에게 아래와 같은 서비스들을 제공한다. *(이건 조합원으로서의 우리의 의무이기도 하다.)*)
->> 1. A source of curated news and commentary.(큐레이팅한 뉴스와 해설 등의 제공)
->> 2. A means to get high quality answers to personalized questions.(개인이 필요로 하는 질문에 대한 수준 높은 답변 등 제공)
->> 3. A stable cryptocurrency pegged to the U.S. dollar.(US 달러에 연동하는 안정적인 암호화폐)
->> 4. Free payments.(거래 수수료 면제)
->> 5. Jobs providing above services to other members.(다른 멤버들에게 위의 서비스를 제공하는 일을 제공)
-> <br>
-> <br> 
+>> 1 A source of curated news and commentary.(큐레이팅한 뉴스와 해설 등의 제공)
+>> 2 A means to get high quality answers to personalized questions.(개인이 필요로 하는 질문에 대한 수준 높은 답변 등 제공)
+>> 3 A stable cryptocurrency pegged to the U.S. dollar.(US 달러에 연동하는 안정적인 암호화폐)
+>> 4 Free payments.(거래 수수료 면제)
+>> 5 Jobs providing above services to other members.(다른 멤버들에게 위의 서비스를 제공하는 일을 제공)
+
 > Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it.(스팀이 지향하는 경제적 인센티브의 재조정은 이전의 소셜 미디어 및 암호화폐 플랫폼들보다 좀 더 공정하고 포괄적인 결과를 만들어낼 것으로 기대된다.) 
 > <br>
 > <br>
