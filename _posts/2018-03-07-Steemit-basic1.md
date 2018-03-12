@@ -197,10 +197,10 @@ PoS는 지분증명 방식으로 "Proof of stake" 가지고 있는 만큼 보상
 댄 라리머는 현재는 이오스(EOS) 블록체인 플랫폼을 만드는 블록원의 CTO를 맡고 있습니다. 그는 최초로 '탈중앙화된 자율 회사' (Decentralized Autonomous Company, DAC)를 고안했습니다.
 
 [*- 참고기사*](http://it.chosun.com/news/article.html?no=2846901)  
-[*- 스팀센터 위키 : 댄라리머*](https://www.steem.center/index.php?title=%EB%8C%84_%EB%9D%BC%EB%A6%AC%EB%A8%B8)
-[*- 오스트리아 학파 : 댄라리머*](https://steemit.com/kr/@creamer7/3113vm)
-[*- 스팀잇의 위기? 이오스 기반의 새로운 탈중앙화 SNS는 나올 것인가? 네드의 다운보팅 사건 ](https://steemkr.com/kr/@solucher/sns)
-[*- 비탈릭 부테린과 댄 라리머의 이더리움 vs. EOS 논쟁 해설](http://www.hashedpost.com/2017/08/hashed-report-vs-eos.html)
+[*- 스팀센터 위키 : 댄라리머*](https://www.steem.center/index.php?title=%EB%8C%84_%EB%9D%BC%EB%A6%AC%EB%A8%B8)  
+[*- 오스트리아 학파 : 댄라리머*](https://steemit.com/kr/@creamer7/3113vm)  
+[*- 스팀잇의 위기? 이오스 기반의 새로운 탈중앙화 SNS는 나올 것인가? 네드의 다운보팅 사건 ](https://steemkr.com/kr/@solucher/sns)  
+[*- 비탈릭 부테린과 댄 라리머의 이더리움 vs. EOS 논쟁 해설](http://www.hashedpost.com/2017/08/hashed-report-vs-eos.html)  
 
 ## 스팀의 가상 경제 시스템
 이제 본격적으로 (아직도 본격이 아니었다니!) 스팀잇의 실제 운영 구조에 대해 이해해 보도록 하겠습니다.   
