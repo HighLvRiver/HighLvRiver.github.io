@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "스팀, 스팀잇에 대한 이해 그리고 CRM"
@@ -6,7 +5,7 @@ date:   2018-03-12 23:00:00
 categories: Steemit
 ---
 
-[TOC]
+{TOC}
 
 # 스팀잇, 흥미로운 토큰 기반 가상 경제 시스템 
 
