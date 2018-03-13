@@ -568,3 +568,4 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 ## 출처
 - [[이지스팀잇]대역폭(Bandwidth)이란?](https://chainbb.com/kr/@easysteemit/bandwidth-easysteemit-what-is-bandwidth-twinbraid-carrotcake)
 - [Quick Review: Steemit Levels, what level are you now?](https://steemit.com/introduceyourself/@albertvhons/quick-review-steemit-levels-what-level-are-you-now)
+- 추가 정리 중... 출처들... 
