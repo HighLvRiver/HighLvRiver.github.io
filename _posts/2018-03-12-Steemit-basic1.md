@@ -553,9 +553,11 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 - https://www.youtube.com/channel/UCszdL-p-oxFW9xQyXT9mkWw/ 스팀 유투브 채널
 
 ### 스팀잇 데이터 분석 소스 제공 사이트
-- https://steemsql.com
+- https://steemsql.com ([@arcange](https://steemit.com/@arcange))
 - https://steemdb.com
 - https://steemdata.com
+
+- https://tool.steem.world steemit 데이터 대시보드 포털 ([@segyepark](https://steemit.com/@segyepark))
 
 ## Next 스팀잇 표방 서비스
 
