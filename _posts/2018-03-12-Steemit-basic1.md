@@ -150,7 +150,7 @@ categories: Steemit
 > <br>
 > Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.(커뮤니티 멤버들의 보팅은 각 기여자들에게 정확히 보상을 배분하는데 매우 중요하다. 그렇기에 보팅은 매우 중요한 기여로 볼 수 있고, 보상할 가치가 있다. 슬래쉬닷 같은 플랫폼은 메타중재라는 방식으로 정직한 중재자들을 평가하고 보상을 정한다. 스팀은 콘텐츠 흥행에 가장 많은 기여를 한 사람을 선택해 보상하고 콘텐츠 제공자에게 주어진 전체 보상에 비례하여 투표자들에게도 보상한다.)
 
-위의 내용에서 보면, **메타중재**라는 표현이 등장합니다. 스팀도 마찬가지로 이러한 메타중재 방식을 도입하여 20명의 증인이라는 것을 투표로 선정하도록 합니다.(20명의 증인과 80명의 증인 대기자들이 있습니다.) 이 20명의 증인의 역할과 의미에 대해서는 뒤에서 더 자세히 다루도록 하겠습니다. 
+위의 내용에서 보면, **메타중재**라는 표현이 등장합니다. 스팀도 마찬가지로 이러한 메타중재 방식을 도입하여 21명의 증인(20명의 증인 + 1명의 랜덤 증인)이라는 것을 투표로 선정하도록 합니다.(20명의 증인과 80명의 증인 대기자들이 있습니다.) 이 20명의 증인의 역할과 의미에 대해서는 뒤에서 더 자세히 다루도록 하겠습니다. 
 
 ### 스팀의 세 가지 원칙
 
