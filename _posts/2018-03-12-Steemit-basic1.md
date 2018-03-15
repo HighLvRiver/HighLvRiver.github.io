@@ -513,6 +513,7 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 이 부분에서 게이미피케이션의 보상이론을 가져와 생각해보면.. [SAPS 모델](http://www.enterprise-gamification.com/mediawiki/index.php?title=SAPS)을 생각해볼 수 있는데, SAPS 모델을 기반으로 보면.. 플레이어의 몰입은 다음의 순서로 더 강하게 나타나게 됩니다.. Status(지위) > Access(접근권) > Power(권력) > Stuff(물품) . 스팀잇은 이용자가 커뮤니티에 몰입하고 지속적으로 기여할 수 있게 하게 위해 Power와 Stuff의 개념을 도입한 것인데, 우리는 이용자에게 어떠한 status, access, power를 제공함으로서, 이용자에게 발행된 리워드풀 보상 비율 교환 코인(스팀달러)을 부채로서 묶어둘 수 있을까요..?
 
 ### 블록체인, 가상화폐 그리고 로열티 프로그램
+- [킥 메신저가 제안하는 6가지 암호화폐 사용사례](http://outstanding.kr/kikkin20180314/)
 - [Bitrewards](https://bitrewards.network/kr/)
 - [일본 라쿠텐 자체 코인 발생 예정](http://biz.chosun.com/site/data/html_dir/2018/02/28/2018022801196.html)
 - [LoyaltyX](https://www.loyaltyx.co/)
@@ -566,6 +567,7 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 - [개인 의료정보 공유 모델, 메디블록](https://medibloc.org/ko/)
 	- [메디블록 백서 요약])https://steemit.com/medibloc/@ryugihyeok/medibloc-whitepaper)
 	- 메디블록은 스팀 기반은 아니지만 스팀잇의 보상체계를 의료정보 공유 모델에 차용
+- [블록체인 활용한 광고 데이터 P2P 거래소](http://www.venturesquare.net/760599)
 	
 ## 출처
 - [[이지스팀잇]대역폭(Bandwidth)이란?](https://chainbb.com/kr/@easysteemit/bandwidth-easysteemit-what-is-bandwidth-twinbraid-carrotcake)
