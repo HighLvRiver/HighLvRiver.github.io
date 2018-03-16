@@ -30,7 +30,11 @@ categories: Steemit
 
 ### 근데 왜 스팀잇이 요즘 화두?
 
+![steemit](/images/steemit.png)
+
 스팀잇이 점점 화두로 떠오르는 이유는 **블록체인 기반의 가상화폐를 실제 서비스에 적용해서 그 생태계가 정상적으로 운영될 수 있음을 증명한 첫번째 사례**이기 때문입니다. 스팀잇은 광고 하나 없이 자본을 조달해가면서 커뮤니티 기여자들에게 보상을 지급하고 있습니다. 가능성을 증명한 것이죠.
+
+![steemit_user_chart](/images/steemit_user_chart.png)
 
 #### [2018.03.11 기준 일간 스팀잇 분석자료 @arcange](https://steemit.com/kr/@arcange/steemit-statistics-20180311-kr)
 - 등록된 사용자수 : 약 80만명
@@ -49,11 +53,17 @@ categories: Steemit
 	- Whale : 36
 
 ### 스팀(STEEM)? 스팀달러(SBD)?
+
+![steem_sbd](/images/steem_sbd.png)
+
 스팀잇에 대한 설명을 하기 앞서, 먼저 스팀에 대한 이해가 필요합니다. 가상화폐 거래소에서 거래를 해본 경험이 있으신 분들은 **스팀(STEEM)**과 **스팀달러(SBD)**를 보신 적이 있을 것입니다. 가상화폐 거래소에서 거래되는 두 가지 화폐에 대해 쉽게 설명하면, 스팀은 비트코인과 같이 블록체인의 블록이 발행되면서 생기는 가상화폐입니다. (스팀은 비트코인과 그 가상화폐 보상을 받는 방식이 상이하지만, 이는 뒤에서 자세히 다루도록 하겠습니다.) 하지만 스팀의 경우, 여러 이슈와 시장 상황에 따라 가치의 득락이 빈번하게 이루어질 수 있기 때문에 그 가치를 보전할 수 있는 대체제가 필요합니다. 마치 전쟁 시를 대비해 금을 쟁여두고 있는 처럼요. **스팀달러(SBD)는 최소 1달러선을 보전하는 안전 자산의 개념**이라고 보시면 됩니다. 암호토큰인 스팀의 가치가 유동적이기 때문에 실물 화폐와 같이 화폐가치가 비교적 안정적인 스팀달러를 개발했다고 합니다. 스팀잇은 내부에서 스팀/스팀달러 거래를 가능하게 하여 외부 거래소의 특정인에 의한 시장가격 조작을 어렵게 만들어 보다 안정적으로 시장가격을 형성할 수 있게 됩니다. 이에 대한 자세한 설명도 뒤에서 진행하도록 하겠습니다. 
 
 (18.03.10 기준 스팀의 시가총액은 6363.3억원이네요)
 
 ### 그럼 스팀은 뭐고 스팀잇은 또 뭐야?
+
+![steem_whitepaper](/images/steem_whitepaper.png)
+
 [스팀 공식 홈페이지](https://steem.io) 메인 페이지를 보면, 스팀에 대해 다음과 같이 설명하고 있습니다.
 > Steem is a blockchain-based rewards platform for publishers to monetize content and grow community.  (Steem은 게시자가 콘텐츠로 수익을 창출하고 커뮤니티를 성장시키는 블록 체인 기반 보상 플랫폼입니다. 즉, 스팀은 블록체인 기반 보상 플랫폼 전체를 이르는 큰 개념이라고 볼 수 있습니다.)
 > <br>
@@ -61,6 +71,9 @@ categories: Steemit
 > *- Steem Public Homepage*
 
 **스팀잇은 스팀이라는 블록체인 기반 보상 플랫폼을 활용하여 스팀 설계자들이 만든 첫번째 어플리케이션**으로서, 커뮤니티에 돈을 지불하는 소셜 네트워크 서비스를 이릅니다. 스팀이라는 플랫폼을 다양한 서비스(예: 스팀 기반 동영상 서비스, [디튜브](https://d.tube))에 확장 적용할 수 있을테지만 그 중에 소셜 네트워크에 적용한 것이 바로 스팀잇인거죠. (스팀잇에 대해서, 그 실체를 지갑프로그램이라고 표현하는 이도 있습니다.)
+
+![steem_home](/images/steem_home.png)
+![steemit_home](/images/steemit_home.png)
 
 스팀잇 창업자들은 그들의 공식 홈페이지와 [백서(Whitepaper)](https://steem.io/SteemWhitePaper.pdf)를 통해 스팀과 스팀잇에 대해 다음과 같이 설명하고 있습니다.
 > Steemit is a blogging platform with it's own SMT called STEEM. These tokens are distributed to content creators and curators daily as rewards, based on community voting.(Steemit은 STEEM이라는 자체 SMT를 가진 블로깅 플랫폼입니다. 이러한 토큰은 지역 사회 투표를 기반으로 콘텐츠 제작자와 큐레이터에게 보상으로 배포됩니다.)
@@ -82,6 +95,8 @@ categories: Steemit
 
 여기서 잠깐, 
 중간에 낯선 용어가 하나 더 눈에 들어왔습니다. 바로 **SMT**입니다. SMT는 **Smart Media Tokens** 의 앞자리를 딴 줄임말인데, 스팀은 스팀이지, SMT는 또 뭘까요? SMT는 스팀 플랫폼이 처음 등장한 지 한참 후에 완성되었으며, 공개된 지는 5개월 정도 밖에 되지 않은 용어입니다. 
+
+![SMT_home](/images/SMT_home.png)
 
 [Ned - Smart Media Tokens: Why We're Doing It (VIDEO)](https://steemit.com/steem/@ned/smart-media-tokens-why-we-re-doing-it-video)
 
@@ -228,6 +243,9 @@ categories: Steemit
 [- 비탈릭 부테린과 댄 라리머의 이더리움 vs. EOS 논쟁 해설](http://www.hashedpost.com/2017/08/hashed-report-vs-eos.html)  
 
 ## 스팀의 가상 경제 시스템
+
+![SP_SD_ST](/images/SP_SD_ST.png)
+
 이제 본격적으로 (아직도 본격이 아니었다니!) 스팀잇의 실제 운영 구조에 대해 이해해 보도록 하겠습니다.   
 스팀잇을 이해하는데, 가장 중요한 것은 바로 **스팀-스팀달러-스팀파워**의 3자 구조로 이루어진 가상 경제 시스템을 이해하는 것입니다.
 
@@ -246,6 +264,9 @@ categories: Steemit
 'Liquid'는 또 두가지로 나눌 수 있는데 스팀이 처음 ICO할 때 참가하여 스팀 커뮤니티에 유동성을 공급하는 방식(물론, 그때 조달한 돈으로 스팀잇을 개발해오는 거지만)과 ICO 이후 우리 같은 개미들이 시장에 상장된 스팀을 사는 방식입니다. 그런데 후자의 방식은 스팀가격 유지에는 도움이 될 수 있으나 스팀 커뮤니티에 추가 자금적 도움은 주지 못합니다. 그렇기에 시장에 있는 유동성 풍부한 스팀중 일부를 스팀 커뮤니티 내부로 끌여들여 유동성을 제한하는 자본 형태로 바꾸거나(Power Up) 아니면 채굴(글 쓰기, 리스팀, 블록체인 유지, 증인자의 역할 수행 등)에 기여한 자들에게 유동성이 제한된 화폐(스팀 파워)를 공급하거나 하는 방식을 취하게 된 것입니다. 이 방식을 스팀 백서에선 'Vesting'으로 표현한 것입니다.
 
 ### 스팀(STEEM)
+
+![steem](/images/st.png)
+
 > Steem is the fundamental unit of account on the Steem blockchain. All other token derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as to other users as a form of payment.(스팀은 스팀 블록체인 상의 기본 계정단위이다. 모든 다른 토큰(스팀 파워, 스팀 달러)들의 가치는 스팀 가치를 기본으로 산정된다. 스팀은 유동성 있는 화폐로 거래소에서 사거나 팔 수 있고 지불의 수단으로 사용될 수 있다)
 
 **스팀은 스팀 블록체인 상의 기본 화폐입**니다. 그리고, 가상세계와 현실세계를 연결하는 매개체입니다. 스팀 커뮤니티 상에서 통용되는 화폐(스팀파워, 스팀달러)는 스팀을 통해 원화, 달러 등 **현실상의 'Fiat Money'로 바꿀 수** 있단 얘기입니다. 
@@ -253,6 +274,9 @@ categories: Steemit
 스팀은 자본출자 방식 중 첫 번째인 'Liquid'에 해당합니다. 그리고, 다음은 자본출자 방식 두번째인 'Vesting'에 대해 설명해보겠습니다. 바로 스팀파워입니다.
 
 ### 스팀파워(Steem Power, SP)
+
+![steem power](/images/sp.png)
+
 > Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit. There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps. In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
 스타트업은 장기 투자자를 필요로 합니다. 그래서 초기에는 차입 보다는 자본을 통한 조달을 선호하지요. 스타트업에 투자하여 지분(주식)을 취득하게 되면 그 회사의 주주가 되고 그 회사 장기성장을 위해 투자자도 노력을 합니다. 돈을 빌려주는 채권자는 회사의 장기성장 보다는 상대적으로 회사가 망하지 않는 것을 위해 노력합니다. 이게 일반 주식회사 구조에서 자금조달의 일반적인 모습입니다.
@@ -282,6 +306,9 @@ categories: Steemit
 즉, 스팀파워 보유자는 13주 동안의 파워 다운(Power Down) 과정을 거쳐야 스팀을 보유하게 되는 것이고 스팀은 이런 시스템을 기존 스타트업의 'Vesting(권리부여)' 구조에서 차용해온 것입니다. 
 
 ### 스팀달러(Steem Dollars, SBD) 
+
+![steem dollars](/images/sbd.png)
+
 스팀파워가 유통주식의 고정화 개념이라면, 스팀달러는 부채로 인한 자금조달이면서 시장 안정화 기능을 합니다.
 > Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.(안정성은 성공적인 글로벌 경제에서 중요한 요소이다. 안정성 없이는 상거래와 저축에 참여하는 사람들의 인지비용을 낮춰줄 수 없다. 그 이유는 안정성은 글로벌 경제 성공의 중요한 요소니깐. 스팀달러는 암호화폐 세계와 스팀 네트워크를 사용하는 사람들에게 안정성을 제공하기 위해 설계되었다.)
 > <br>
@@ -295,6 +322,8 @@ categories: Steemit
 스팀달러는 스팀 커뮤니티에서 열심히 글쓰고 댓글달고 등 노동력을 제공하면 보상으로 주어집니다. **통상 글을 쓰면 스팀달러 50%, 스팀파워 50%로 보상**이 됩니다. 내가 글 쓴 것에 대한 노동력의 대가이니 스팀 커뮤니티는 나에게 돈을 줘야 합니다. 그런데 내 원고료(저자보상금액)가 급등락하는 스팀가격에 연동이 되어 있음 난 글을 지속적으로 스팀잇에 쓸 수 없습니다. 그러니 **내가 받을 채권(저자보상)은 현실세계 화폐로 고정(안정화)을 해주는 것, 그게 스팀달러**입니다. 스팀달러는 원래 받아야할 달러금액에 맞춰 스팀으로 전환비율이 조정되며, 이 돈은 교환을 원할 경우, 3.5일 후 스팀으로 변환됩니다. 스팀달러는 미국 달러와 1:1 연동되어 실제 저자 보상금액이 급변하는 것을 막아줍니다. 
 
 ### 증인(Witness)
+
+![steem_witness](/images/steem_witness.png)
 
 가상화폐 시스템은 채굴이라는 독특한 방식으로 화폐를 찍어냅니다. 비트코인은 새로운 블록을 생성할 때 컴퓨터 파워를 제공하는 사람(채굴자)에게 가상화폐를 제공합니다. 컴퓨터 리소스를 사용하는 것에 대한 일종의 보상이죠. (앞서 설명한 POW 개념입니다.)
 
@@ -313,6 +342,8 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 #### 증인 투표의 중요성
 
 스팀파워의 또다른 활용은 증인 선출에 있습니다. 증인들은 스팀 네트워크 유지 뿐 아니라 각종 설정값을 조정할 수 있는 권한을 가지고 있습니다. 증인이 현명하게 행동하면 스팀 네트워크가 건강해지지만, 그렇지 못한 증인이 많아진다면 스팀이 해를 입을 수도 있습니다.
+
+![witness_rank](/images/witness_rank.png)
 
 #### 증인의 역할
 
@@ -362,6 +393,8 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 ## 그래서 누가 얼마를 얻을 수 있는데?
 
 ### 보상 비율
+
+![reward struc](/images/reward_struc.png)
 
 먼저 스팀의 인플레이션율은 최초 오픈년 기준으로 년간 10%입니다. 매년 0.5%p 씩 줄어 올해는 현재 인플레이션율이 9.0%이고, 인플레이션율이 1%가 되면 그 이후로는 계속 1%로 유지됩니다. 약 2034년부터 1%가 됩니다.
 
@@ -435,6 +468,9 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 (풀보팅시 20$ × 10회 = 200$. 보팅힘 50%조절시, 10$ × 20회 = 200$)
 
 ### 고래
+
+![steemitboard](/images/steemitboard.png)
+
 고래란 스팀파워가 1000 메가 베스트인 유저들을 이르며, 일반적으로 스팀파워가 높은 유저들을 통칭합니다. [스팀잇보드](http://steemitboard.com/welcome.html)라는 서비스로 부터 유래되었습니다. 
 
 * Red Fish : 0 to 999999 VESTS
