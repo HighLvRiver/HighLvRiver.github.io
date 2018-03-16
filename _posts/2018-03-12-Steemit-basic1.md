@@ -265,7 +265,7 @@ categories: Steemit
 
 ### 스팀(STEEM)
 
-![steem](/images/st.png)
+![steem](/images/st_mark.png)
 
 > Steem is the fundamental unit of account on the Steem blockchain. All other token derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as to other users as a form of payment.(스팀은 스팀 블록체인 상의 기본 계정단위이다. 모든 다른 토큰(스팀 파워, 스팀 달러)들의 가치는 스팀 가치를 기본으로 산정된다. 스팀은 유동성 있는 화폐로 거래소에서 사거나 팔 수 있고 지불의 수단으로 사용될 수 있다)
 
@@ -275,7 +275,7 @@ categories: Steemit
 
 ### 스팀파워(Steem Power, SP)
 
-![steem power](/images/sp.png)
+![steem power](/images/sp_mark.png)
 
 > Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit. There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps. In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
@@ -307,7 +307,7 @@ categories: Steemit
 
 ### 스팀달러(Steem Dollars, SBD) 
 
-![steem dollars](/images/sbd.png)
+![steem dollars](/images/sbd_mark.png)
 
 스팀파워가 유통주식의 고정화 개념이라면, 스팀달러는 부채로 인한 자금조달이면서 시장 안정화 기능을 합니다.
 > Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.(안정성은 성공적인 글로벌 경제에서 중요한 요소이다. 안정성 없이는 상거래와 저축에 참여하는 사람들의 인지비용을 낮춰줄 수 없다. 그 이유는 안정성은 글로벌 경제 성공의 중요한 요소니깐. 스팀달러는 암호화폐 세계와 스팀 네트워크를 사용하는 사람들에게 안정성을 제공하기 위해 설계되었다.)
