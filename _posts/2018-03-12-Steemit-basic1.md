@@ -63,7 +63,7 @@ categories: Steemit
 
 현재 DPoS 방식도 투표인원이 적을 경우 독점이라는 형태가 될 수 있다는 등의 여러 단점이 존재하지만 기존의 가상화폐 시장이 그래왔듯이 개선 혹은 더욱 효과적인 방식의 출현이 빠른 속도로 진행될 것으로 판단됩니다.
 
-*- [PoW(Proof of work), PoS(Proof of stake)란?]*(https://www.ventasnu.com/news/?mod=document&uid=18)
+[*- PoW(Proof of work), PoS(Proof of stake)란?*](https://www.ventasnu.com/news/?mod=document&uid=18)
 
 ### 근데 왜 스팀잇이 요즘 화두?
 
@@ -135,7 +135,7 @@ categories: Steemit
 
 ![SMT_home](/images/SMT_home.png)
 
-*- [Ned - Smart Media Tokens: Why We're Doing It (VIDEO)]*(https://steemit.com/steem/@ned/smart-media-tokens-why-we-re-doing-it-video)
+[*- Ned - Smart Media Tokens: Why We're Doing It (VIDEO)*]*(https://steemit.com/steem/@ned/smart-media-tokens-why-we-re-doing-it-video)
 
 **스팀잇은 작가/큐레이션이라는 독특하고 신선한 보상체계가 있는데 이 보상체계를 아무 사이트에서 가져다 쓸 수 있게 하는 것이 바로 SMT** 입니다. 자체 코인 생성(이 기능도 당연히 같이 제공)을 통해서 말입니다.
 
@@ -143,9 +143,9 @@ categories: Steemit
 
 정리하자면, 스팀 플랫폼을 기반으로 한 보상서비스를 어떠한 서비스에도 확장 가능하도록 만든 장치라고 생각하시면 됩니다. SMT를 활용한 플랫폼으로는 [APPICS](http://appics.kr/APPICS)라고 하는 소셜미디어 서비스가 있습니다.(2018년 3분기 알파런칭 및 토큰 분배 예정이며, XAP라는 보상 토큰을 사용합니다.)
 
-*- [SMT Whitepaper]*(https://smt.steem.io/smt-whitepaper.pdf)  
-*- [SMT를 활용한 첫번째 플랫폼, APPICS, Whitepaper]*(https://appics.com/downloads/Appics_Whitepaper.pdf)
-*- [Smart Media Tokens: 왜 만들었나? #2 (동영상 번역 포함)]*(https://steemit.com/kr/@segyepark/smart-media-tokens)
+[*- SMT Whitepaper*](https://smt.steem.io/smt-whitepaper.pdf)  
+[*- SMT를 활용한 첫번째 플랫폼, APPICS, Whitepaper*](https://appics.com/downloads/Appics_Whitepaper.pdf)
+[*- Smart Media Tokens: 왜 만들었나? #2 (동영상 번역 포함)*](https://steemit.com/kr/@segyepark/smart-media-tokens)
 
 시작하자마자, 낯선 개념들이 쏟아져 나왔는데요. 
 더 재미있는 이야기를 드리기 전에 스팀잇 설립자들은 누구이며, 왜 이러한 서비스를 만들었는지 살펴보겠습니다.
@@ -238,7 +238,7 @@ categories: Steemit
 
 그럼 이번에는 도대체 이런 생각을 하고 실행까지 시키고 그 실행을 성공까지 시키고 있는 놈들(?)은 대체 어떤 놈들(?)일 지 알아보겠습니다.
 
-[- @mechuriya](https://steemit.com/@mechuriya)
+[*- @mechuriya*](https://steemit.com/@mechuriya)
 
 ### 스팀잇 창업자
 
@@ -274,11 +274,11 @@ categories: Steemit
 
 **댄 라리머는 현재는 이오스(EOS) 블록체인 플랫폼을 만드는 블록원의 CTO**를 맡고 있습니다. 그는 최초로 '탈중앙화된 자율 회사' (Decentralized Autonomous Company, DAC)를 고안했습니다.
 
-[- 참고기사](http://it.chosun.com/news/article.html?no=2846901)  
-[- 스팀센터 위키 : 댄라리머](https://www.steem.center/index.php?title=%EB%8C%84_%EB%9D%BC%EB%A6%AC%EB%A8%B8)  
-[- 오스트리아 학파 : 댄라리머](https://steemit.com/kr/@creamer7/3113vm)  
-[- 스팀잇의 위기? 이오스 기반의 새로운 탈중앙화 SNS는 나올 것인가? 네드의 다운보팅 사건](https://steemkr.com/kr/@solucher/sns)  
-[- 비탈릭 부테린과 댄 라리머의 이더리움 vs. EOS 논쟁 해설](http://www.hashedpost.com/2017/08/hashed-report-vs-eos.html)  
+[*- 참고기사*](http://it.chosun.com/news/article.html?no=2846901)  
+[*- 스팀센터 위키 : 댄라리머*](https://www.steem.center/index.php?title=%EB%8C%84_%EB%9D%BC%EB%A6%AC%EB%A8%B8)  
+[*- 오스트리아 학파 : 댄라리머*](https://steemit.com/kr/@creamer7/3113vm)  
+[*- 스팀잇의 위기? 이오스 기반의 새로운 탈중앙화 SNS는 나올 것인가? 네드의 다운보팅 사건*](https://steemkr.com/kr/@solucher/sns)  
+[*- 비탈릭 부테린과 댄 라리머의 이더리움 vs. EOS 논쟁 해설*](http://www.hashedpost.com/2017/08/hashed-report-vs-eos.html)  
 
 ## 스팀의 가상 경제 시스템
 
@@ -359,7 +359,7 @@ categories: Steemit
 
 스팀달러는 스팀 커뮤니티에서 열심히 글쓰고 댓글달고 등 노동력을 제공하면 보상으로 주어집니다. **통상 글을 쓰면 스팀달러 50%, 스팀파워 50%로 보상**이 됩니다. 내가 글 쓴 것에 대한 노동력의 대가이니 스팀 커뮤니티는 나에게 돈을 줘야 합니다. 그런데 내 원고료(저자보상금액)가 급등락하는 스팀가격에 연동이 되어 있음 난 글을 지속적으로 스팀잇에 쓸 수 없습니다. 그러니 **내가 받을 채권(저자보상)은 현실세계 화폐로 고정(안정화)을 해주는 것, 그게 스팀달러**입니다. 스팀달러는 원래 받아야할 달러금액에 맞춰 스팀으로 전환비율이 조정되며, 이 돈은 교환을 원할 경우, 3.5일 후 스팀으로 변환됩니다. 스팀달러는 미국 달러와 1:1 연동되어 실제 저자 보상금액이 급변하는 것을 막아줍니다. 
 
-[- @mechuriya](https://steemit.com/@mechuriya)
+[*- @mechuriya*](https://steemit.com/@mechuriya)
 
 ### 증인(Witness)
 
@@ -377,8 +377,8 @@ categories: Steemit
 
 witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규직이 됩니다. 20명은 1분마다 채굴을 하고, 나머지 80명은 20사람이 놓친 것이나 띄엄띄엄 나오는 것을 채굴하게 됩니다. 긴급 대기조 인 셈이지요. (20인의 증인 중에는 한국인도 있습니다. [@clayop](https://steemit.com/@clayop))
 
-- [스팀의 채굴자 - 증인에 대하여](https://steemit.com/kr/@mastertri/-2017830t112650432z)
-- [한겨레21 스팀잇 특집 기사 @clayop 인터뷰](https://steemit.com/kr/@hanyeol/5jnatz-21)
+[*- 스팀의 채굴자 - 증인에 대하여*](https://steemit.com/kr/@mastertri/-2017830t112650432z)
+[*- 한겨레21 스팀잇 특집 기사 @clayop 인터뷰*](https://steemit.com/kr/@hanyeol/5jnatz-21)
 
 #### 증인 투표의 중요성
 
@@ -404,8 +404,8 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 - 하드포크 결정
 	- 하드포크가 이루어질 때 마다, 증인들은 판올림을 할지 말지를 결정합니다. 새로운 기능이 적용되기 위해서는 대다수의 증인이 판올림을 해야합니다. 
 
-- [Quick Start Guide - 증인 투표 가이드](https://steemit.com/steemkr-guide/@tmkor/steemkr-quick-start-guide)
-- [Witness Voting Guide](https://steemit.com/witness-category/@timcliff/witness-voting-guide)
+[*- Quick Start Guide - 증인 투표 가이드*](https://steemit.com/steemkr-guide/@tmkor/steemkr-quick-start-guide)
+[*- Witness Voting Guide*](https://steemit.com/witness-category/@timcliff/witness-voting-guide)
 
 ## 그런데 말이야.. 그래서 돈은 누가 주는 건데?
 
@@ -432,7 +432,7 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 
 하지만 스팀은 고유가치가 있습니다. 스팀잇이라는 공유경제철학이 녹아 있는 커뮤니티가 있는 것이지요.
 
--[스팀잇에 글 쓰면 돈을 누가 주나요?](https://steemit.com/kr-newbie/@jinkim/ycljt)
+[*- 스팀잇에 글 쓰면 돈을 누가 주나요?*](https://steemit.com/kr-newbie/@jinkim/ycljt)
 
 ## 그래서 누가 얼마를 얻을 수 있는데?
 
@@ -461,7 +461,7 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 
 (참고로 블록은 3초마다 생성됩니다.)
 
-- [스팀잇 보상체계](https://steemit.com/kr/@vip/3xzeqb)
+[*- 스팀잇 보상체계*](https://steemit.com/kr/@vip/3xzeqb)
 
 ### 저자와 추천인 사이의 보상 변수
 
@@ -491,7 +491,7 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 	- 글 등록 15~30분 보팅 : 저자 50%, 큐레이터 50%
 	- 글 등록 30분 이후~ 7일 보팅 : 큐레이터 100%
 
-- [복잡한 스팀잇 보상 체계 한페이지 요약](https://steemit.com/kr/@neoteny/25mmab)
+[*- 복잡한 스팀잇 보상 체계 한페이지 요약*](https://steemit.com/kr/@neoteny/25mmab)
 
 ## 기타 관련 용어
 ### 풀보팅
@@ -514,7 +514,7 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 그러나 횟수가 늘어나는 만큼 개별 보팅가치는 그만큼 줄어들게 되므로, 보팅가치를 모두 합하면 동일합니다.
 (풀보팅시 20$ × 10회 = 200$. 보팅힘 50%조절시, 10$ × 20회 = 200$)
 
-- [보팅파워의 비밀(뉴비는 풀보팅만 가능할까?)](https://steemit.com/kr/@lawyergt/-24959a04dfaed)
+[*- 보팅파워의 비밀(뉴비는 풀보팅만 가능할까?)*](https://steemit.com/kr/@lawyergt/-24959a04dfaed)
 
 ### 고래
 
@@ -552,7 +552,7 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 
 메가(mega)는 ‘100만’이라는 뜻입니다. 개인의 베스트는 스팀잇의 ‘지갑’(wallet)에서 확인이 가능합니다. (steemd.com에 가보면 환산하는 공식을 알 수 있습니다.)
 
-- [스팀잇의 계급 7가지](https://steemit.com/vests/@gochujangkim/7)
+[*- 스팀잇의 계급 7가지*](https://steemit.com/vests/@gochujangkim/7)
 
 ### 대역폭(Bandwidth)
 
@@ -585,7 +585,7 @@ witness는 총 100명이 되고, 이 중 20명은 정규직, 80명은 비정규�
 
 그것을 재는 척도가 바로 스팀파워입니다.
 
-- [대역폭(Bandwidth)이란? : @twinbraid / @carrotcake](https://steemit.com/kr/@easysteemit/bandwidth-easysteemit-what-is-bandwidth-twinbraid-carrotcake)
+[*- 대역폭(Bandwidth)이란? : @twinbraid / @carrotcake*](https://steemit.com/kr/@easysteemit/bandwidth-easysteemit-what-is-bandwidth-twinbraid-carrotcake)
 
 ### 블록트레이드(BlockTrades)
 스팀달러와 스팀, 스팀파워를 거래할 수 있는 내부 거래소입니다.
