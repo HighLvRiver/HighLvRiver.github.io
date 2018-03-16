@@ -63,7 +63,7 @@ categories: Steemit
 
 현재 DPoS 방식도 투표인원이 적을 경우 독점이라는 형태가 될 수 있다는 등의 여러 단점이 존재하지만 기존의 가상화폐 시장이 그래왔듯이 개선 혹은 더욱 효과적인 방식의 출현이 빠른 속도로 진행될 것으로 판단됩니다.
 
-- [PoW(Proof of work), PoS(Proof of stake)란?](https://www.ventasnu.com/news/?mod=document&uid=18)
+*- [PoW(Proof of work), PoS(Proof of stake)란?]*(https://www.ventasnu.com/news/?mod=document&uid=18)
 
 ### 근데 왜 스팀잇이 요즘 화두?
 
