@@ -5,6 +5,8 @@ date:   2018-03-12 23:00:00
 categories: Steemit
 ---
 
+# 스팀잇, 흥미로운 토큰 기반 가상 경제 시스템 
+
 *Contents*
 - 들어가기에 앞서...
 	- 비트코인, 이더리움은 들어 봤는데...스팀? 그 차이가 뭐야?
@@ -39,9 +41,7 @@ categories: Steemit
 	- 스팀잇 이용 관련 사이트
 	- 스팀잇 데이터 분석 소스 제공 사이트
 - Next 스팀잇 표방 서비스
-- 
-
-# 스팀잇, 흥미로운 토큰 기반 가상 경제 시스템 
+- 출처
 
 [@jayden.yoo](https://steemit.com/@jayden.yoo)
 
