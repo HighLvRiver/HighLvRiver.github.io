@@ -135,7 +135,7 @@ categories: Steemit
 
 ![SMT_home](/images/SMT_home.png)
 
-- [Ned - Smart Media Tokens: Why We're Doing It (VIDEO)](https://steemit.com/steem/@ned/smart-media-tokens-why-we-re-doing-it-video)
+*- [Ned - Smart Media Tokens: Why We're Doing It (VIDEO)]*(https://steemit.com/steem/@ned/smart-media-tokens-why-we-re-doing-it-video)
 
 **스팀잇은 작가/큐레이션이라는 독특하고 신선한 보상체계가 있는데 이 보상체계를 아무 사이트에서 가져다 쓸 수 있게 하는 것이 바로 SMT** 입니다. 자체 코인 생성(이 기능도 당연히 같이 제공)을 통해서 말입니다.
 
@@ -143,9 +143,9 @@ categories: Steemit
 
 정리하자면, 스팀 플랫폼을 기반으로 한 보상서비스를 어떠한 서비스에도 확장 가능하도록 만든 장치라고 생각하시면 됩니다. SMT를 활용한 플랫폼으로는 [APPICS](http://appics.kr/APPICS)라고 하는 소셜미디어 서비스가 있습니다.(2018년 3분기 알파런칭 및 토큰 분배 예정이며, XAP라는 보상 토큰을 사용합니다.)
 
-- [SMT Whitepaper](https://smt.steem.io/smt-whitepaper.pdf)  
-- [SMT를 활용한 첫번째 플랫폼, APPICS, Whitepaper](https://appics.com/downloads/Appics_Whitepaper.pdf)
-- [Smart Media Tokens: 왜 만들었나? #2 (동영상 번역 포함)](https://steemit.com/kr/@segyepark/smart-media-tokens)
+*- [SMT Whitepaper]*(https://smt.steem.io/smt-whitepaper.pdf)  
+*- [SMT를 활용한 첫번째 플랫폼, APPICS, Whitepaper]*(https://appics.com/downloads/Appics_Whitepaper.pdf)
+*- [Smart Media Tokens: 왜 만들었나? #2 (동영상 번역 포함)]*(https://steemit.com/kr/@segyepark/smart-media-tokens)
 
 시작하자마자, 낯선 개념들이 쏟아져 나왔는데요. 
 더 재미있는 이야기를 드리기 전에 스팀잇 설립자들은 누구이며, 왜 이러한 서비스를 만들었는지 살펴보겠습니다.
