@@ -6,7 +6,7 @@ categories: BlockChain
 ---
 
 [번역] Making blockchain real for customer loyalty rewards programs
-by Deloitte Center for Financial Service
+by Deloitte Center for Financial Service ()
 
 [✓ 원문 링크](https://www2.deloitte.com/us/en/pages/financial-services/articles/making-blockchain-real-customer-loyalty-rewards-programs.html)
 
@@ -158,34 +158,3 @@ The 2016 Bond Loyalty Report에서는 응답자의 30%만이 웹 사이트의 �
 그래서 우리는 무엇을 기다리고 있는가? 음, 하나는 임계 질량이다. 이미 충성도가 높은 보상 프로그램과 규모가 이미있는 소수의 플레이어가 Buy-In을 얻는 것이 중요하다. 그들의 프로그램을 성공적으로 돌리면 다른 사람들의 문이 열리게 된다. 둘째, 수용된 프로토콜과 표준화가 프로세스의 일부임을 보장하는 것이다. 다양한 산업, 특히 금융 서비스 분야에서 이미 수백가지의 블록체인 이니셔티브가 진행 중입니다. 이 기술은 표준화가 아직 현실과 거리가 멀 정도로 충분히 새롭다. 그러나 충성도 보상의 매력적인 특징은 기업이 수익과 운영의 핵심이 아니므로 회사가 컨소시엄의 노력에 더욱 기꺼이 참여할 수 있다는 것이다. 가장 좋은 시나리오는 블록체인 진행자가 견고한 블록 인 프로토콜로 네트워크를 구축하고 일반적으로 충성도 보너스 공간에서 블록 체인 표준을 개발하기에 충분한 대량 매입을 얻는 것이다. 또한 현재 충성도 보상 프로그램을 운영하는 레거시 시스템을 통합 및 강화하는 것 외에도 로열티 보상 공급자는 블록 체인이 액세스 권한을 제공하는 상호 연결된 네트워크에서 상호 작용하는 방법을 정확하게 제어할 수 있다.
 
 
-
-
-
-1 Lindsay Kolowich, “7 customer loyalty programs that actually add value,” HubSpot, July 1, 2015, http://blog.hubspot.com, accessed September 8, 2016.
-2 Jeff Berry, “The 2015 COLLOQUY Loyalty Census: Big Numbers, Big Hurdles,” COLLOQUY, February 2015.
-3 Val Srinivas, Urval Goradia, and Steve Fromhart, “Pricing innovation in retail banking: The case for value-based pricing,” Deloitte Center for Financial Services, October 2016.
-4 Val Srinivas, Steve Fromhart, and Richa Wadhwani, “Default payments: The digital marketplace reset you did
-not see coming!,” Deloitte Center for Financial Services, Deloitte University Press, October 2016.
-5 Jeff Berry, “The 2015 COLLOQUY Loyalty Census: Big Numbers, Big Hurdles,” COLLOQUY, February 2015.
-6 ibid 
-7 “The 2016 Bond Loyalty Report (US edition),” Bond Brand Loyalty, June 2016.
-8 David Johnson, “Reinvigorating card loyalty with instant gratification,” Payments Leader (from FIS Global),
-September 1, 2016.
-9 Michael J. Casey, “How bitcoin technology could shake up the loyalty-points business,” The Wall Street Journal, July 2, 2015.
-10 “The 2016 Bond Loyalty Report (US edition),” Bond Brand Loyalty, June 2016.
-11 David Schatsky and Craig Muraskin, “Beyond bitcoin: Blockchain is coming to disrupt your industry,” Deloitte University Press, December 7, 2015.
-12 Smart contracts are “self-executing code on a blockchain that automatically implements the terms of an agreement between parties…Smart contracts are executed by a computer network that uses consensus protocols to agree upon the sequence of actions resulting from the contract’s code.” John Ream, Yang Chu, and David Schatsky, “Upgrading blockchains: smart contract use cases in industry,” Deloitte University Press, June 8, 2016.
-13 Eric Piscini, Joe Guastella, Alex Rozman, and Tom Nassim, “Blockchain: Democratized trust,” Deloitte
-University Press, March 2016.
-14 Sean Dennis, “How to become a rewards (application) operator,” Loyyal (on medium.com), January 4, 2016.
-15 Michael J. Casey, “How bitcoin technology could shake up the loyalty-points business,” The Wall Street Journal, July 2, 2015.
-16 Sarah Jenn, “How bitcoin technology is changing the loyalty rewards industry”, NewsBTC, July 3, 2015.
-17 Luke Bujarski, “Why Travel Loyalty Programs Belong on The Blockchain,” Luft Group, March 8, 2016.
-18 David Schatsky and Craig Muraskin, “Beyond bitcoin: Blockchain is coming to disrupt your industry,” Deloitte University Press, December 7, 2015.
-19 James O'Brien and Dave Montali, “Loyalty programs see opportunities in blockchain technology,” Skift, July 15, 2016.
-20“How Real Is Loyalty and Rewards Fraud?” Payments Leader (from FIS Global), March 13, 2014.
-21 ibid.
-22 Roger Strukhoff, “Managing risk and building trust for blockchain in finance,” Altoros, August 30, 2016.
-23 Karen Bells, “Making mobile pay: 3 tips for simplicity, safety and savings,” COLLOQUY, Jan./Feb. 2015.
-24 “The 2016 Bond Loyalty Report (US edition),” Bond BrandLoyalty, June 2016.
-25 Ibid.
